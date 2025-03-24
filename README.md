@@ -79,7 +79,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduc
 ## Future Enhancements
 
 - [ ] Custom gesture mapping
-- [ ] Multi-monitor brightness support
+- [ ] use touchpad as dial
 - [ ] Media player controls (play/pause, next/previous)
 - [ ] Application-specific gestures
 - [ ] Gesture visualization and tutorial
@@ -91,4 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by macOS trackpad gestures
-- Special thanks to contributors and testers
+- Special thanks to emoacht(RawInput Touchpad)
