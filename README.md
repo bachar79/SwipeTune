@@ -74,7 +74,6 @@ Contributions are welcome! Here are some ways you can contribute:
 - Submit pull requests with bug fixes or new features
 - Add more gesture patterns and controls
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct and submission process.
 
 ## Future Enhancements
 
