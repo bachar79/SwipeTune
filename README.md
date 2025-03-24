@@ -2,7 +2,7 @@
 
 A Windows application that transforms your laptop touchpad into a powerful multimedia control center. Use gestures, swipes, and edge controls to manage volume, brightness, and more without interrupting your workflow.
 
-![SwipeTune](./Resources/Group 1.png)
+![SwipeTune](Resources/icon.png)
 ## Features
 
 - **System Tray Integration** - Runs quietly in the background with easy access from the system tray
